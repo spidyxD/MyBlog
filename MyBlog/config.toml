@@ -1,10 +1,9 @@
-baseurl = "/"
+baseurl = "https://myBlog.netlify.app/"
 title = "My Blog"
 author = "Roger Amador"
 googleAnalytics = ""
 defaultContentLanguage = "en"
 paginate = 3
-
 theme = "terrassa"
 themesDir = "../.." # Not necessary on production sites
 
