@@ -1,5 +1,8 @@
 baseurl = "https://myspydiblog.netlify.app/"
 title = "My Blog"
 author = "Roger Amador"
-languageCode = "en-us"
 theme = "terrassa"
+googleAnalytics = ""    # Your Google Analytics tracking ID
+enableRobotsTXT = true
+language = "en-US"
+paginate = 7            # The numbers of posts per page
