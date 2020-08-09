@@ -1,7 +1,5 @@
 baseurl = "https://myspydiblog.netlify.app/"
 title = "My Blog"
 author = "Roger Amador"
-googleAnalytics = ""
-defaultContentLanguage = "en"
-paginate = 3
+languageCode = "en-us"
 theme = "terrassa"
