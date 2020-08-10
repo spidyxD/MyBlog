@@ -28,7 +28,7 @@ paginate = 5            # The numbers of posts per page
 
 [params.form] # Contact form
     netlify = true
-    action = "https://formspree.io/your@email.com"
+    action = ""
     method = "POST"
     inputNameName = "name"
     inputNameLabel = "Name"
@@ -97,8 +97,8 @@ paginate = 5            # The numbers of posts per page
         languageName = "sp"
         weight = 2
         contentDir = "content/sp"
-        title = "Espanol"
-        description = "Espanol"
+        title = "Bienvenido a mi Blog"
+        description = "Blog Personal"
         [languages.sp.params]
           [languages.sp.params.form] # Translate contact form fields
             inputNameLabel = "Name"
