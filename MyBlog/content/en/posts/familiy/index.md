@@ -1,6 +1,6 @@
 ---
-title: "How to improve my family relationship"
-description: "Experimentig the convivence with my family during Covid-19."
+title: "How to survive the quarentine"
+description: "Is this an apocalipse zombie ?."
 date: 2019-08-09T22:32:19+01:00
 publishDate: 2019-08-09T22:21:42+01:00
 author: "Roger Amador"
