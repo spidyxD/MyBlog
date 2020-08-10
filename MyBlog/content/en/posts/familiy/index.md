@@ -15,5 +15,5 @@ tags: ["health", "family","convivence","values"]
 
 The importance of the familiy nowdays have increase...
 
-{{< figure src="./images/familia.jpg" title="Dummy image using Hugo shortcode." >}}
+
 

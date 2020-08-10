@@ -1,5 +1,5 @@
 ---
-title : "Frases"
+title : "Mis frases favoritas"
 description: ""
 draft: false
 weight: 2
