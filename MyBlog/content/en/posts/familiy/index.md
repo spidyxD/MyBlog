@@ -6,10 +6,10 @@ publishDate: 2019-08-09T22:21:42+01:00
 author: "Roger Amador"
 images: []
 draft: false
-tags: ["health", "family","convivence","values"]
+tags: ["Conspirations", "COVID-19","Zombies","Vaccine"]
 ---
 
-[How to improve the family relation during COVID-19](#). During the last 5 month I have to learn how to improve the relation with my family...
+[How to survive the COVID-19](#). During the last 5 month I have been thinking on the possible way that the COVID-19 was created...
 
 ![familia.](./images/familia.jpg)
 
