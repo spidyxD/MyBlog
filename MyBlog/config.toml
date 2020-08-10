@@ -5,7 +5,7 @@ theme = "terrassa"
 googleAnalytics = ""    # Your Google Analytics tracking ID
 enableRobotsTXT = true
 language = "en-US"
-paginate = 7            # The numbers of posts per page
+paginate = 5            # The numbers of posts per page
 [params]
     description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
     favicon = "favicon.ico"
@@ -48,25 +48,18 @@ paginate = 7            # The numbers of posts per page
     dateFormat = "Monday, Jan, 2006"
 
 [params.contact] # Contact info
-    email = "example@gmail.com"
-    phone = "xxx xxx xxx"
-    skype = ""
-    address = "419 Creek St. Revere, MA 02151"
+    email = "addielo.o@gmail.com"
+    phone = "+506 8888-8888"
+    address = "Heredia, Lagunilla"
 
 [params.social]
-    twitter = "https://twitter.com/john"
-    facebook = "https://facebook.com/john"
-    github = "https://github.com/john"
-    gitlab = ""
-    codepen = "https://codepen.io/john"
-    instagram = "https://instagram.com/john"
-    pinterest = ""
-    youtube = ""
-    linkedin = ""
-    weibo = ""
-    mastodon = ""
-    tumblr = ""
-    flickr = ""
+    twitter = "https://twitter.com/addielxD?s=09"
+    facebook = "https://www.facebook.com/addielxD/"
+    github = "https://github.com/spidyxD"
+    instagram = "https://instagram.com/addiel_amvi"
+    pinterest = "https://pinterest.com"
+    youtube = "https://youtube.com"
+    linkedin = "https://www.linkedin.com/in/roger-amador-villagra-071009147"
     "500px" = ""
 
 [params.copy] # Copyright
@@ -100,12 +93,12 @@ paginate = 7            # The numbers of posts per page
         languageName = "en"
         weight = 1
         contentDir = "content/en"
-      [languages.de]
-        languageName = "de"
+      [languages.sp]
+        languageName = "sp"
         weight = 2
         contentDir = "content/de"
-        title = "Das ist der deutsche Titel"
-        description = "Das ist die deutsche Beschreibung"
+        title = "Espanol"
+        description = "Espanol"
         [languages.de.params]
           [languages.de.params.form] # Translate contact form fields
             inputNameLabel = "Name"
