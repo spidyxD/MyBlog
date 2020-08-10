@@ -1,5 +1,5 @@
 ---
-title: "Re discoverying hobbies in quarentine"
+title: "Re discoverying hobbies in quarantine"
 description: "Enjoyining my freetime."
 date: 2019-06-09T22:32:19+01:00
 publishDate: 2019-08-09T22:21:42+01:00

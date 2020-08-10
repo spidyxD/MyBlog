@@ -1,5 +1,5 @@
 ---
-title: "How to survive the quarentine"
+title: "How to survive the quarantine"
 description: "Is this an apocalipse zombie ?."
 date: 2019-08-09T22:32:19+01:00
 publishDate: 2019-08-09T22:21:42+01:00
