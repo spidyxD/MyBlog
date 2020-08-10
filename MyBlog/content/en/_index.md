@@ -7,5 +7,5 @@ menu: main
 weight: 1
 ---
 
-# My story of curentena
+# My quarantine story
 ## This is my personal blog about my experiences in quarantine due to COVID-19.

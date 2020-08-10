@@ -8,4 +8,4 @@ weight: 1
 ---
 
 # Mi historia de curentena
-## Este es mi blog personal sobre mis experiencias en cuarentena debido al CO.
+## Este es mi blog personal sobre mis experiencias en cuarentena debido al COVID-19.
