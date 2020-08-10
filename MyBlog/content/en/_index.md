@@ -7,5 +7,5 @@ menu: main
 weight: 1
 ---
 
-# Terrassa
-## The Hugo theme for you. Or for your company.
+# My story of curentena
+## This is my personal blog about my experiences in quarantine due to COVID-19.
