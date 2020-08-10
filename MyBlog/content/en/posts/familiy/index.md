@@ -13,7 +13,7 @@ tags: ["Conspirations", "COVID-19","Zombies","Vaccine"]
 
 ![familia.](./images/familia.jpg)
 
-The importance of the familiy nowdays have increase...
+Now keep social distance is the key to be secure...
 
 
 
