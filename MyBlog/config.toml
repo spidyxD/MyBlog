@@ -96,18 +96,18 @@ paginate = 5            # The numbers of posts per page
       [languages.sp]
         languageName = "sp"
         weight = 2
-        contentDir = "content/de"
+        contentDir = "content/sp"
         title = "Espanol"
         description = "Espanol"
-        [languages.de.params]
-          [languages.de.params.form] # Translate contact form fields
+        [languages.sp.params]
+          [languages.sp.params.form] # Translate contact form fields
             inputNameLabel = "Name"
-            inputNamePlaceholder = "Dein Name"
+            inputNamePlaceholder = "Name"
             inputEmailLabel = "E-mail"
-            inputEmailPlaceholder = "Deine E-Mail-Adresse"
-            inputMsgLabel = "Schreib etwas"
-            inputSubmitValue = "Abschicken"
-            [languages.de.params.cta] # Translate Call To Action
+            inputEmailPlaceholder = "E-Mail"
+            inputMsgLabel = "Escribe algo"
+            inputSubmitValue = "Enviar"
+            [languages.sp.params.cta] # Translate Call To Action
                 show = true
-                cta = "Kontakt"
-                link = "de/kontakt/" # Relative URL
+                cta = "Contacto"
+                link = "sp/contacto/" # Relative URL
