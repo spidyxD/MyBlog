@@ -101,8 +101,8 @@ paginate = 5            # The numbers of posts per page
         description = "Blog Personal"
         [languages.sp.params]
           [languages.sp.params.form] # Translate contact form fields
-            inputNameLabel = "Name"
-            inputNamePlaceholder = "Name"
+            inputNameLabel = "Nombre"
+            inputNamePlaceholder = "Nombre"
             inputEmailLabel = "E-mail"
             inputEmailPlaceholder = "E-Mail"
             inputMsgLabel = "Escribe algo"

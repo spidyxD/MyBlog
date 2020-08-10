@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-description: "Send me a message!"
+title: "Contacto"
+description: "Enviame un mensaje!"
 images: []
 draft: false
 menu: main
