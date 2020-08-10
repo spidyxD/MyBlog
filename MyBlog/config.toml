@@ -109,5 +109,5 @@ paginate = 5            # The numbers of posts per page
             inputSubmitValue = "Enviar"
             [languages.sp.params.cta] # Translate Call To Action
                 show = true
-                cta = "Contacto"
-                link = "sp/contacto/" # Relative URL
+                cta = "Contact"
+                link = "sp/contact/" # Relative URL
