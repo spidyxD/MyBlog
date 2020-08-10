@@ -7,7 +7,7 @@ menu: main
 weight: 3
 ---
 
-¡Oye! Soy roger
+¡Oye! Soy Roger
 
 La codificación ha cambiado mi mundo.
 
@@ -19,7 +19,7 @@ mi vida.
 Espero llegar a ser el mejor desarrollador y algún día crear mi propia empresa.
            
 
-"Declare variables, no la guerra"
+"Declara variables, no la guerra"
 
         
 
