@@ -18,7 +18,7 @@ mi vida.
 
 Espero llegar a ser el mejor desarrollador y algún día crear mi propia empresa.
            
-
+![developer.](/images/developer.jpg)
 "Declara variables, no la guerra"
 
         
