@@ -1,24 +1,33 @@
 ---
-title: "How game websites can help you live a better life"
-description: "The 6 best dish review twitter feeds to follow."
-date: 2018-12-19T22:32:19+01:00
-publishDate: 2018-12-19T22:21:42+01:00
-author: "John Doe"
+title: "Tomando la cuarentena como una oportunidad para aprender"
+description: "Nunca pares de aprender."
+date: 2019-05-09T22:32:19+01:00
+publishDate: 2019-08-09T22:21:42+01:00
+author: "Roger Amador"
 images: []
 draft: false
-tags: ["health", "cooking"]
+tags: ["learn", "DevelopSkills","StudyOnline"]
 ---
 
-[How to cheat at dish reviews and get away with it](#). The 6 best dish review twitter feeds to follow. The best ways to utilize minute meals. The best ways to utilize safe food handling tips. The best ways to utilize safe food handling tips. 17 facts about food processors that will impress your friends. How cooking healthy food is making the world a better place. Why you'll never succeed at healthy eating facts. 16 things you don't want to hear about chefs. 9 uses for mexican food.
+[Nunca pares de aprender.](#). Más allá de mantener las cosas frescas para sostener su creatividad y pasión profesional, el aprendizaje lo mantiene relevante en nuestro mundo siempre cambiante. Y, podría decirse que es la mejor herramienta de seguridad laboral que podrías tener, sin mencionar que alcanzar niveles más altos y perfeccionar nuevas habilidades es un gran argumento para buscar ascensos y aumentos en el trabajo.
 
-![Dummy image.](./images/dummy-image.jpg)
+"Las organizaciones no pueden seguir transformándose si sus empleados no están aprendiendo y sus habilidades no están alineadas con las cambiantes demandas empresariales", explica Toby, subrayando la importancia de crear un entorno en el que se fomente el aprendizaje y el fracaso sea seguro siempre que los empleados aprendan de él.
 
-The unconventional guide to chicken dishes. Why food networks beat peanut butter on pancakes. How fast food isn't as bad as you think. If you read one article about restaurant weeks read this one. Why delicious food is afraid of the truth. Why meatloaf recipes will make you question everything. The oddest place you will find food networks. 16 great articles about breakfast casseroles. Why the next 10 years of healthy cooking tips will smash the last 10. The 16 biggest food network blunders.
+"Todos los directivos deberían hacer del aprendizaje un objetivo central para sus empleados. Está directamente relacionado con el éxito de su equipo y de su empresa", dice. "Los empleados deben tener el tiempo y el apoyo para lograr el aprendizaje y ser reconocidos por ello".
 
-{{< figure src="./images/dummy-image.jpg" title="Dummy image using Hugo shortcode." >}}
+¿Su mejor consejo para el desarrollo profesional? Asumir la responsabilidad personal de su aprendizaje.
 
-11 things that won't happen in minute meals. [Why mom was right about mexican food](#). 20 facts about chefs that will impress your friends. 7 uses for delicious food. How to cheat at dish reviews and get away with it. Unbelievable dish review success stories. Why your food network never works out the way you plan. Why food processors are the new black. Why our world would end if healthy lunch ideas disappeared. The 12 best resources for healthy eating facts.
+Ahora que sabes por qué debes seguir aprendiendo, aquí están los mejores consejos de Toby para hacerlo en el trabajo.
 
-<img src="./images/dummy-image.jpg" alt="Dummy image with HTML.">
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
 
-14 ways chef uniforms can make you rich. An expert interview about healthy eating facts. 17 things that won't happen in fast food. The 16 worst songs about food stamps. 20 podcasts about thai restaurants. 12 ways easy meals can make you rich. Why restaurant weeks should be 1 of the 7 deadly sins. 15 ideas you can steal from safe food handling tips. Why mexican food is the new black. Why healthy cooking tips are the new black.
+![learning.](./images/learning.jpg)
+
+Decide lo que quieres aprender
+Primero, considera cómo y de qué manera quieres desarrollarte.
+
+Empieza con un amplio conocimiento de la industria, que puede ayudarte a identificar las áreas que más te despiertan la curiosidad. Lea ampliamente y a menudo. Su lista de lectura debe ir más allá de las noticias regulares. Siga tanto las noticias generales de negocios, como la Harvard Business Review, como los blogs relacionados con su campo. También puede unirse a comunidades virtuales relacionadas con su campo para leer y participar en debates con sus compañeros.
+
+Intente trabajar en al menos media hora de lectura y de creación de redes profesionales cada día. A medida que temas específicos de tu campo te inspiren e interesen, explóralos más. Una vez que identifiques dónde quieres especializarte, intenta asistir a las conferencias relevantes e incluso tomar cursos específicos para ampliar tus conocimientos.
+
+![NeverStopLearning.](./images/NeverStopLearning.jpg)

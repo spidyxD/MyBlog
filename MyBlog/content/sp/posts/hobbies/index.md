@@ -1,24 +1,53 @@
 ---
-title: "How game websites can help you live a better life"
-description: "The 6 best dish review twitter feeds to follow."
-date: 2018-12-19T22:32:19+01:00
-publishDate: 2018-12-19T22:21:42+01:00
-author: "John Doe"
+title: "Descubriendo hobbies"
+description: "Disfrutando el tiempo libre."
+date: 2019-06-09T22:32:19+01:00
+publishDate: 2019-08-09T22:21:42+01:00
+author: "Roger Amador"
 images: []
 draft: false
-tags: ["health", "cooking"]
+tags: ["hobies", "fun","enjoy"]
 ---
 
-[How to cheat at dish reviews and get away with it](#). The 6 best dish review twitter feeds to follow. The best ways to utilize minute meals. The best ways to utilize safe food handling tips. The best ways to utilize safe food handling tips. 17 facts about food processors that will impress your friends. How cooking healthy food is making the world a better place. Why you'll never succeed at healthy eating facts. 16 things you don't want to hear about chefs. 9 uses for mexican food.
 
-![Dummy image.](./images/dummy-image.jpg)
+[Disfrutando de mi tiempo libre.](#). Tener un hobby que disfrutamos nos trae alegría y enriquece nuestras vidas. Nos da algo divertido que hacer
+durante nuestro tiempo libre y nos da la oportunidad de aprender nuevas habilidades. Somos muy afortunados de tener
+tantas opciones diferentes que hay hoy en día. De hecho, hay sitios web enteros dedicados a pasatiempos e intereses.
+La mejor manera de cultivar un nuevo hobby es probar algo nuevo. El mundo está lleno de maravillosas y excitantes actividades que podemos explorar y adoptar como propias. Por supuesto, todos nosotros somos únicos y, por lo tanto,
+nuestros intereses y pasatiempos varían. Pero una vez que encontramos un hobby que realmente disfrutamos y nos apasiona,
+nos enganchamos. Se convierte en parte de nuestras vidas y nos cautiva de una manera muy personal.
 
-The unconventional guide to chicken dishes. Why food networks beat peanut butter on pancakes. How fast food isn't as bad as you think. If you read one article about restaurant weeks read this one. Why delicious food is afraid of the truth. Why meatloaf recipes will make you question everything. The oddest place you will find food networks. 16 great articles about breakfast casseroles. Why the next 10 years of healthy cooking tips will smash the last 10. The 16 biggest food network blunders.
+![hobbies.](./images/hobbies.jpg)
 
-{{< figure src="./images/dummy-image.jpg" title="Dummy image using Hugo shortcode." >}}
+Hay muchas razones por las que todos nosotros deberíamos tener al menos un hobby, pero aquí están las principales
+ventajas:
+- Te hace más interesante. La gente que tiene hobbies tiene experiencias e historias que
+puede compartir con otros. También tienen conocimientos especializados que pueden enseñar a cualquiera que también
+tiene interés en los mismos temas que ellos.
+- Ayuda a aliviar el estrés manteniéndote ocupado en algo que disfrutas. Los pasatiempos te dan una
+una manera de quitarte el estrés de la vida cotidiana. Te permiten relajarte y buscar placer en actividades que no están asociadas con el trabajo, tareas u otras responsabilidades.
+- Los pasatiempos le ayudan a ser más paciente. Para desarrollar un nuevo hobby, tienes que aprender cómo
+para hacer algo que es completamente nuevo para ti. Las probabilidades son que habrá una curva de aprendizaje, y tú
+necesitan ser pacientes para construir sus habilidades.
+- Tener un hobby puede ayudar a tu vida social y crear un vínculo con los demás. Un hobby es algo
+que puedes disfrutar frecuentemente con otras personas. Tanto si te unes a un club, juegas en una liga, o simplemente regalas
+otros con los frutos de su trabajo, un hobby es una gran manera de conocer y acercarse a las personas que tienen
+los mismos intereses que tú.
+- Aumenta tu confianza y autoestima. Las probabilidades son que si realmente disfrutas de una actividad.
+suelen ser bastante buenos en ello. Cualquier actividad en la que puedas sobresalir es una oportunidad para que construyas tu
+confianza y desarrollar el orgullo de sus logros.
 
-11 things that won't happen in minute meals. [Why mom was right about mexican food](#). 20 facts about chefs that will impress your friends. 7 uses for delicious food. How to cheat at dish reviews and get away with it. Unbelievable dish review success stories. Why your food network never works out the way you plan. Why food processors are the new black. Why our world would end if healthy lunch ideas disappeared. The 12 best resources for healthy eating facts.
 
-<img src="./images/dummy-image.jpg" alt="Dummy image with HTML.">
+# Top Hobbies
 
-14 ways chef uniforms can make you rich. An expert interview about healthy eating facts. 17 things that won't happen in fast food. The 16 worst songs about food stamps. 20 podcasts about thai restaurants. 12 ways easy meals can make you rich. Why restaurant weeks should be 1 of the 7 deadly sins. 15 ideas you can steal from safe food handling tips. Why mexican food is the new black. Why healthy cooking tips are the new black.
+1. Leer libros
+![books.](./images/books.jpg)
+
+2. Escuchar musica
+![music.](./images/music.jpg)
+
+3. Jugar videojuegos
+![playVideoGames.](./images/playVideoGames.jpg)
+
+4. Ver series
+![watch.](./images/watch.jpg)
