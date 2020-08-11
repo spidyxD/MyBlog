@@ -9,7 +9,7 @@ draft: false
 tags: ["WFH", "WorkBalance","BePositive"]
 ---
 
-[Evitando el desgaste laboral.](#). OEl trabajo tiene prioridad sobre todo lo demás en nuestras vidas. Nuestro deseo de tener éxito profesionalmente puede empujarnos a dejar de lado nuestro propio bienestar. Sin embargo, crear un equilibrio armonioso entre trabajo y vida o la integración de trabajo y vida es fundamental para mejorar no sólo nuestro bienestar físico, emocional y mental, sino que también es importante para nuestra carrera.
+[Evitando el desgaste laboral.](#). Nuestro deseo de tener éxito profesionalmente puede empujarnos a dejar de lado nuestro propio bienestar. Sin embargo, crear un equilibrio armonioso entre trabajo y vida o la integración de trabajo y vida es fundamental para mejorar no sólo nuestro bienestar físico, emocional y mental, sino que también es importante para nuestra carrera.
 
 En resumen, el equilibrio entre trabajo y vida es el estado de equilibrio en el que una persona prioriza por igual las exigencias de su carrera y las de su vida personal. Algunas de las razones comunes que llevan a un mal equilibrio entre trabajo y vida personal incluyen:
 
