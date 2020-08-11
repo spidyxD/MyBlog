@@ -18,5 +18,5 @@ my life.
 
 I hope come to be the best as a developer and someday create me own company.
            
-
+![developer.](./images/developer.jpg)
 "Declare variables, not the war"
