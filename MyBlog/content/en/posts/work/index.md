@@ -11,8 +11,6 @@ tags: ["WFH", "WorkBalance","BePositive"]
 
 [Trying to avoid the burnout.](#). Often, work takes precedence over everything else in our lives. Our desire to succeed professionally can push us to set aside our own well-being. Creating a harmonious work-life balance or work-life integration is critical, though, to improve not only our physical, emotional and mental well-being, but it's also important for our career.
 
-![work-balance.](./images/work-balance.jpg)
-
 In short, work-life balance is the state of equilibrium where a person equally prioritizes the demands of one's career and the demands of one's personal life. Some of the common reasons that lead to a poor work-life balance include:
 
 - Increased responsibilities at work
@@ -20,7 +18,9 @@ In short, work-life balance is the state of equilibrium where a person equally p
 - Increased responsibilities at home
 - Having children
 
+![work-balance.](./images/work-balance.jpg)
 
+Here are eight ways to create a better work-life balance:
 1. Accept that there is no 'perfect' work-life balance.
 When you hear "work-life balance," you probably imagine having an extremely productive day at work, and leaving early to spend the other half of the day with friends and family. While this may seem ideal, it is not always possible. 
 
