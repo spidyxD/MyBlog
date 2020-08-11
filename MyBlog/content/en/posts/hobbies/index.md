@@ -8,7 +8,7 @@ images: []
 draft: false
 tags: ["hobies", "fun","enjoy"]
 ---
-![hobbies.](./images/hobbies.jpg)
+
 
 [Enjoyining my freetime.](#). Having a hobby that we enjoy brings us joy and enriches our lives. It gives us something fun to do
 during our leisure time and affords us the opportunity to learn new skills. We are very fortunate to have
@@ -16,6 +16,9 @@ so many different options out there today. In fact, there are entire websites de
 The best way to cultivate a new hobby is to try something new. The world is full of wonderful, exciting activities that we can explore and adopt as our own. Of course, all of us are unique and, therefore,
 our interests and hobbies vary. But once we find a hobby that we truly enjoy and are passionate about,
 we become hooked. It becomes part of our lives and captivates us in a very personal way.
+
+![hobbies.](./images/hobbies.jpg)
+
 There are many reasons why all of us should have at least one hobby, but here are the main
 advantages:
 - It makes you more interesting. People who have hobbies have experiences and stories that they
