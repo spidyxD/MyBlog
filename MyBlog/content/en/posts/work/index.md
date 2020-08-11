@@ -1,8 +1,8 @@
 ---
 title: "How to have work balance working from home"
 description: "Trying to avoid the burnout."
-date: 2019-07-09T22:32:19+01:00
-publishDate: 2019-08-09T22:21:42+01:00
+date: 2020-08-10T22:32:19+01:00
+publishDate: 2020-08-10T22:21:42+01:00
 author: "Roger Amador"
 images: []
 draft: false

@@ -1,8 +1,8 @@
 ---
 title: "Taking the quarantine time as an oportunity to learn new things"
 description: "Never stop to learn."
-date: 2019-05-09T22:32:19+01:00
-publishDate: 2019-08-09T22:21:42+01:00
+date: 2020-08-07T22:32:19+01:00
+publishDate: 2020-08-07T22:21:42+01:00
 author: "Roger Amador"
 images: []
 draft: false
